@@ -1,4 +1,7 @@
-# Experiment 4: Image Geometric Transformations Using OpenCV
+# Experiment 4: Record-Image Transformations
+
+### Name: Parani Bala M
+### Reg.no: 212224230192
 
 ## Aim
 To perform geometric transformations on an image using Python and OpenCV, including translation, scaling, shearing, reflection, rotation, and cropping.
@@ -112,6 +115,14 @@ plt.imshow(cv2.cvtColor(cropped_image, cv2.COLOR_BGR2RGB))  # Display the croppe
 plt.title("Cropped Image")
 plt.axis('off')
 ```
+## Output:
+<img width="1523" height="602" alt="image" src="https://github.com/user-attachments/assets/01ffc1bc-3b8e-490a-97ae-2f59dbf7246d" />
+<img width="1516" height="595" alt="image" src="https://github.com/user-attachments/assets/649f3128-8a62-4df8-966e-59e598f82b73" />
+<img width="1506" height="427" alt="image" src="https://github.com/user-attachments/assets/72ac7337-c6a1-4720-9119-a941cbf32550" />
+<img width="1508" height="591" alt="image" src="https://github.com/user-attachments/assets/f47e747b-3283-4574-ab44-3946503472c1" />
+<img width="1505" height="613" alt="image" src="https://github.com/user-attachments/assets/f0121e39-9fbc-4590-8561-b75fdf5fd97b" />
+<img width="1515" height="597" alt="image" src="https://github.com/user-attachments/assets/830547ef-fdf7-4c98-826a-6830b79d83f7" />
+<img width="1502" height="616" alt="image" src="https://github.com/user-attachments/assets/577eb526-48c9-4dfb-9c38-d265dec05ff6" />
 
 ## Result
 Geometric transformations were performed on the input image using OpenCV. The original image and the translated, scaled, sheared, reflected, rotated, and cropped images were displayed successfully using Matplotlib.
